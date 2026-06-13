@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+asyncpg
+bcrypt
+PyJWT
+email-validator
+httpx
+groq
+python-whois
+dnspython
+slowapi
+pydantic[email]
